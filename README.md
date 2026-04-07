@@ -14,8 +14,8 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-- 💡 Lenguajes: `Java` · `HTML` · `CSS` · `JavaScript`  
-- 🌐 Web & Backend: `Spring Boot` · `Node.js` (básico) · `REST APIs`  
+- 💡 Lenguajes: `Java`
+- 🌐 Web & Backend: `Spring Boot` · `REST APIs`  
 - ⚙️ Herramientas: `Git` · `GitHub` · `VS Code` · `Eclipse`  
 
 ---

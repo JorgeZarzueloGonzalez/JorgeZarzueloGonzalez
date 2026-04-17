@@ -33,7 +33,7 @@ Un proyecto personal en el que estoy trabajando actualmente, que combina backend
 
 ## 📫 Contacto
 
-- 📩 Email: *contacto@jorgezarzuelo.es*  
+- 📩 Email: contacto@jorgezarzuelo.es
 
 ---
 
